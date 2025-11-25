@@ -21,10 +21,10 @@ export default function Home() {
           <p>Hello I'm</p>
         </div>
         <div className=" text-4xl text-[#705C53] font-serif">
-          <h1>Victor Anuye</h1>
+          <h1>Nwaozuzu Ekene</h1>
         </div>
         <div className="font-sans text-[#705C53]">
-          <p>UI/UX Designer</p>
+          <p>Web Developer</p>
           <div className="pt-2">
             <a href="https://wa.link/ll7sld"><button className="bg-[#705C53] text-white rounded-xl w-20 h-10  hover:bg-[#B7B7B7] hover:scale-110 hover:shadow-xl transition duration-800">HIRE ME</button></a>
           </div>
